@@ -1,0 +1,10 @@
+escribiendo linea 0
+escribiendo linea 1
+escribiendo linea 2
+escribiendo linea 3
+escribiendo linea 4
+escribiendo linea 5
+escribiendo linea 6
+escribiendo linea 7
+escribiendo linea 8
+escribiendo linea 9
