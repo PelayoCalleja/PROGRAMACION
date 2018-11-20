@@ -1,0 +1,2 @@
+A10045.451Mon Jan 09 17:07:09 CET 2017
+Esto es un ejemplo de la clase PrintStream, compruebalo en la carpeta del proyecto 
