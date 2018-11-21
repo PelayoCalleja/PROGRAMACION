@@ -12,7 +12,6 @@ public class TokenizarApuesta {
     public TokenizarApuesta(String linea) { // nt
         this.linea = linea; // nt
     }
-
     // Devuelvo siempre un objeto del tipo que represente cada fila
     // La clase de este objeto la tengo que tener en el modelo
     public Apuesta tokenizar() {
