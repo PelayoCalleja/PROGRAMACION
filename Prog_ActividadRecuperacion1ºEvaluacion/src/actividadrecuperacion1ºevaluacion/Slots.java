@@ -29,6 +29,6 @@ public class Slots {
 
     public void girar(){
         Random r = new Random();
-        this.valor = r.nextInt(3);
+        this.valor = r.nextInt(2);
     }
 }
