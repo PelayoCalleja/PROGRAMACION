@@ -129,7 +129,7 @@ public class Tragaperras {
     public ArrayList<Tirada> getTiradas() {
         return tiradas;
     }
-
+    
     public void setTiradas(ArrayList<Tirada> tiradas) {
         this.tiradas = tiradas;
         int premioActual;
